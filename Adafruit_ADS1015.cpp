@@ -7,7 +7,7 @@
     Driver for the ADS1015/ADS1115 ADC
 
     This is a library for the Adafruit MPL115A2 breakout
-    ----> https://www.adafruit.com/products/???
+    ----> https://www.adafruit.com/products/1083
 
     Adafruit invests time and resources providing this open source code,
     please support Adafruit and open-source hardware by purchasing
